@@ -1,0 +1,4 @@
+# Ignoring venv folder
+mng_env
+notebooks/wandb
+checkpoints

@@ -1,0 +1,34 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# Data
+datasets
+tree-sitter
+tree-sitter-python
+tree-sitter-java
+
+# ML & DL dependencies
+scikit-learn
+transformers
+accelerate
+torch
+peft
+
+# Training and Evaluation dependencies
+evaluate
+rouge_score
+sacrebleu
+wandb
+
+# Web app dependencies
+streamlit
+
+# Sub-process dependencies
+wheel
+
+
+graphviz
