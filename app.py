@@ -35,7 +35,7 @@ def load_model():
     # Load trained adapter
     base_dir = os.getcwd()
     checkpoint_dir = os.path.join(
-        base_dir, "checkpoints", "adithya", "mngast120k2", "checkpoint-25000"
+        base_dir, "checkpoints", "mngast120k2", "checkpoint-25000"
     )
     model.load_adapter(checkpoint_dir, adapter_name="default")
     

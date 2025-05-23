@@ -26,6 +26,7 @@ wandb
 
 # Web app dependencies
 streamlit
+gradio
 
 # Sub-process dependencies
 wheel
